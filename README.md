@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Ify 👋
 
-<!--
-**ifyjoven/ifyjoven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring Cybersecurity Professional .
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Linux
+- Networking
+- Python
+- Ethical Hacking
+
+## 🎯 Goal
+
+Build practical cybersecurity skills through consistent learning and hands-on projects.
+
+## 📚 Current Repositories
+
+- Linux Notes
+- Networking Notes
+- Python for Cybersecurity
+- Ethical Hacking Labs
+
+## 🚀 2026 Goals
+
+- Complete my Linux fundamentals
+- Build Python automation scripts
+- Document cybersecurity labs
+- Grow a strong GitHub portfolio
+- Land my first cybersecurity role
+
+> "Consistency beats intensity."
